@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "bootstrap": "^5.3.0-alpha2",
+    "bootstrap-icons": "^1.10.3",
+    "dracula-ui": "^1.0.6"
+  }
+}
